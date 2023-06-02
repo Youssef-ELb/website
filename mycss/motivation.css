@@ -1,0 +1,37 @@
+.motivation{
+    background:  #d3d6da;
+    padding: 3rem;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+}
+.motivation h1{
+    color: #1f1f25;
+    font-size: 3rem;
+    margin: 1.7rem 0;
+    display: flex;
+    justify-content: center; 
+}
+p {
+    color: #1f1f25;
+    letter-spacing: 1px;
+    line-height: 1.8rem;
+    font-size: 1rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.motivation span{
+    color: #fd4766;
+}
+
+/************************************/
+/*        Media Queries             */
+/************************************/
+
+@media screen and (max-width: 575px){
+    footer .footer-content p{
+        width: 100%;
+        letter-spacing:normal;
+    }
+    }
+
