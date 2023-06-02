@@ -420,11 +420,11 @@ nav ul.is-active{
     }
     .home .container-txt{
         position:relative;
-        bottom: 15rem;
+        bottom: 5rem;
         left: 60px;
     }
     .home .socmedia{
-        top: 43%;
+        top: 50%;
         left: 10%;
     }
 }
